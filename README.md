@@ -6,15 +6,16 @@ Welcome to my GitHub profile! I'm a control engineer and researcher with a passi
 
 - **M.Sc. in Aerospace Engineering**  
   Sharif University of Technology (Current)  
-  *Specialization: Safe Intelligent Control Systems for eVTOL Air Taxis*  
+  *Specialization: Dynamics and Control*
+  *Focus: Safe Intelligent Control System for eVTOL Air Taxis*
 
 - **B.Sc. in Aerospace Engineering**  
   Amirkabir University of Technology (Tehran Polytechnic), 2022  
- *Focus: Dynamics and Control*
+ *Specialization: Dynamics and Control*
   
 - **B.Sc. in Electrical Engineering**  
   Amirkabir University of Technology (Tehran Polytechnic), 2022  
-  *Focus: Control*  
+  *Specialization: Control*  
 
 ## 🚀 Research Interests  
 
