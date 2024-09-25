@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Mahdi  
 
-Welcome to my GitHub profile! I'm a control engineer and researcher with a passion for developing assured and dependable autonomous systems that can positively impact society.   
+Welcome to my GitHub profile! I'm a control engineer and researcher with a passion for developing assured autonomous systems that can positively impact society.   
 
 ## 🎓 Education  
 
