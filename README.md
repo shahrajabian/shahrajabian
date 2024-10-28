@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm a control engineer and researcher with a passi
 
 I am particularly interested in the following areas:  
 
-- Assured Autonomous Systems  
+- Assured Autonomous Systems and Robotics 
 - Safe Learning-Based Control  
 - Model Predictive Control  
 - Data-Driven Modeling and Control  
-- Resilient Flight Control  
+- Fault-Tolerant and Resilient Control  
 - Control of Multi-Agent Systems  
 
 I believe that integrating learning-based, predictive, and data-driven methods can lead to reliable performance in complex real-world applications while ensuring safety.   
