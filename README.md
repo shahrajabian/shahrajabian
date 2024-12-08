@@ -41,7 +41,7 @@ When I'm not immersed in engineering, I enjoy:
 ## 📫 Get in Touch  
 
 I'm always open to collaboration and discussions related to my research interests. Feel free to reach out!  
-- **Website**: [https:/shahrajabian.github.io/](https://shahrajabian.github.io/))
+- **Website**: [https:/shahrajabian.github.io/](https://shahrajabian.github.io/)
 - **Email**: [m.shahrajabian99@gmail.com](mailto:m.shahrajabian99@gmail.com)   
 
 Thank you for visiting my GitHub profile! Let's connect and innovate together! 🌟
