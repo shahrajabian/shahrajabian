@@ -20,13 +20,12 @@ Welcome to my GitHub profile! I'm a control engineer and researcher with a passi
 ## 🚀 Research Interests  
 
 I am particularly interested in the following areas:  
-
-- Assured Autonomous Systems and Robotics
+- Optimal Control
+- Adaptive Nonlinear Control
 - Data-Driven Modeling and Control  
 - Safe Learning-Based Control  
-- Model Predictive Control  
-- Fault-Tolerant and Resilient Control  
-- Control of Multi-Agent Systems  
+- Model Predictive Control
+- Assured Autonomous Systems and Robotics
 
 I believe that integrating learning-based, predictive, and data-driven methods can lead to reliable performance in complex real-world applications while ensuring safety.   
 
