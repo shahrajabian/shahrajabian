@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a control engineer and researcher with a passi
 ## 🚀 Research Interests  
 
 I am particularly interested in the following areas:  
-- Optimal Control
+- Automatic Control
 - Model Predictive Control
 - Safety-Critical Control
 - Data-Driven Modeling and Control  
