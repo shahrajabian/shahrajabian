@@ -20,12 +20,11 @@ Welcome to my GitHub profile! I'm a control engineer and researcher with a passi
 ## 🚀 Research Interests  
 
 I am particularly interested in the following areas:  
-- Safe Learning-Based Control
-- Intelligent Decision-Making and Control
-- Model Predictive Control
+- Control Theory
+- Model Predictive Control,
+- Safe Learning-Based Decision-Making and Control
+- Trustworthy AI and Assured Autonomy in Cyber-Physical Systems
 - Data-Driven Modeling and Control  
-- Safety-Critical Systems
-- Assured Autonomous Systems and Robotics
 
 I believe that integrating learning-based, predictive, and data-driven methods can lead to reliable performance in complex real-world applications while ensuring safety.   
 
