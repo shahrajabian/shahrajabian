@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Mahdi  
 
-Welcome to my GitHub profile! I'm a control engineer and researcher with a passion for developing assured autonomous systems that can positively impact society.   
+Welcome to my GitHub profile! I'm a researcher in conytol theory and AI with a passion for developing assured autonomous systems that can positively impact society.   
 
 ## 🎓 Education  
 
@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm a control engineer and researcher with a passi
 
 I am particularly interested in the following areas:  
 - Control Theory
-- Model Predictive Control
 - Data-Driven Modeling, Fault Diagnosis, and Control
 - Safe Learning-Based Decision-Making and Control
 - Trustworthy AI and Assured Autonomy in Cyber-Physical Systems
+- Computer Science and Robotics 
   
 
 I believe that integrating learning-based, predictive, and data-driven methods can lead to reliable performance in complex real-world applications while ensuring safety.   
