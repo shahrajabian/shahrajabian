@@ -24,7 +24,6 @@ I am particularly interested in the following areas:
 - Data-Driven Modeling, Fault Diagnosis, and Control
 - Safe Learning-Based Decision-Making and Control
 - Trustworthy AI and Assured Autonomy in Cyber-Physical Systems
-- Computer Science and Robotics 
   
 
 I believe that integrating learning-based, predictive, and data-driven methods can lead to reliable performance in complex real-world applications while ensuring safety.   
