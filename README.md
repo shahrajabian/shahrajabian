@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Mahdi  
 
-Welcome to my GitHub profile! I'm a researcher in conytol theory and AI with a passion for developing assured autonomous systems that can positively impact society.   
+Welcome to my GitHub profile! I'm a researcher in conytol theory with a passion for developing safe automation systems that can positively impact society.   
 
 ## 🎓 Education  
 
