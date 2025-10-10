@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a researcher in conytol theory and AI with a p
 - **M.Sc. in Aerospace Engineering**  
   Sharif University of Technology (Current)  
   *Specialization: Dynamics and Control*    
-  # *Focus: Safe Intelligent Control System for eVTOL Air Taxis*
 
 - **B.Sc. in Aerospace Engineering**  
   Amirkabir University of Technology (Tehran Polytechnic), 2022  
