@@ -20,9 +20,8 @@ Welcome to my GitHub profile! I'm a researcher in conytol theory with a passion 
 
 I am particularly interested in the following areas:  
 - Control Theory
-- Data-Driven Modeling, Fault Diagnosis, and Control
+- Data-Driven Modeling and Control
 - Safe Control
-- Multi-agent Systems
   
 
 ## 🏃‍♂️ Hobbies  
