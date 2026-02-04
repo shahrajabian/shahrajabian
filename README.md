@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a researcher in conytol theory with a passion 
 
 ## 🎓 Education  
 
-- **M.Sc. in Aerospace Engineering**  
+- **M.Sc. in Aerospace Engineering**
   Sharif University of Technology, 2025
-  *Specialization: Dynamics and Control*    
+  *Specialization: Dynamics and Control*   
 
 - **B.Sc. in Aerospace Engineering**  
   Amirkabir University of Technology (Tehran Polytechnic), 2022  
@@ -20,8 +20,9 @@ Welcome to my GitHub profile! I'm a researcher in conytol theory with a passion 
 
 I am particularly interested in the following areas:  
 - Control Theory
+- Machine Learning
 - Data-Driven Modeling and Control
-- Safe Control
+- Safety-Critical Systems
   
 
 ## 🏃‍♂️ Hobbies  
