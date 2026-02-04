@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I'm a researcher in conytol theory with a passion 
 ## 🎓 Education  
 
 - **M.Sc. in Aerospace Engineering**
+  
   Sharif University of Technology, 2025
+  
   *Specialization: Dynamics and Control*   
 
 - **B.Sc. in Aerospace Engineering**  
