@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a researcher in conytol theory with a passion for developing safe automation systems that can positively impact society.   
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Mahdi;Safe + Learning-based + Control+Researcher;Control+Systems+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Mahdi;Safe+Learning-based+Control+Researcher;Control+Systems+Specialist" alt="Typing SVG" />
 </h1>
 
 <p align="center">
