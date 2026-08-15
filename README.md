@@ -101,8 +101,9 @@ I am particularly interested in the following areas:
 When I'm not immersed in engineering, I enjoy:  
 
 - **Sports**: Bodybuilding and running  
-- **Outdoor Activities**: Hiking, camping, and climbing with friends and family  
-- **Martial Arts**: Former kickboxer, with a passion for fitness  
+- **Martial Arts**: Former kickboxer, with a passion for fitness
+- **Outdoor Activities**: Hiking, camping, and climbing with friends and family
+- **Cooking**: Exploring and preparing different cuisines
 
 ## 📫 Get in Touch  
 
