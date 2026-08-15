@@ -80,14 +80,14 @@ I am particularly interested in the following areas:
 ![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge)
 
 ### 🔌 Embedded Systems
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-uVision-394049?style=for-the-badge&logo=arm&logoColor=white)
 ![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Code Composer Studio](https://img.shields.io/badge/Code%20Composer%20Studio-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
 
 
-### 💻 Operating Systems & Productivity
+### 💻 Operating Systems & Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
