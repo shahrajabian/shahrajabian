@@ -74,7 +74,7 @@ I am particularly interested in the following areas:
 ![AVL](https://img.shields.io/badge/AVL-Aerodynamic%20Analysis-555555?style=for-the-badge)
 ![CIFER](https://img.shields.io/badge/CIFER-Flight%20Test%20Analysis-555555?style=for-the-badge)
 
-### ⚙️ Engineering & Simulation
+### ⚙️ Engineering
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E31837?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![ANSYS Fluent](https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge)
