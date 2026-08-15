@@ -2,6 +2,24 @@
 
 Welcome to my GitHub profile! I'm a researcher in conytol theory with a passion for developing safe automation systems that can positively impact society.   
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Mahdi;Safe + Learning-based + Control+Researcher;Control+Systems+Specialist" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://shahrajabian.github.io/"><img src="https://img.shields.io/badge/Website-shahrajabian.github.io-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=-nb3r8QAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahdi-shahrajabian-5ba8aa190"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:m.shahrajabian99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahrajabian&style=for-the-badge&color=6366F1" alt="Profile Views"/>
+</p>
+
+---
+
+
 ## 🎓 Education  
 
 - **M.Sc. in Aerospace Engineering**   
