@@ -44,14 +44,12 @@ I am particularly interested in the following areas:
 
 
 ## 🏆 Honors & Awards
-Ranked 1st among all 64 peer master’s students in the Aerospace Engineering Department at SUT (Sep 2024)
-• Winner of the Academic Excellence Fellowship from Iran’s National Elite Foundation (Jan 2023)
-• Received a merit-based direct admission offer for the Master of Aerospace Engineering at SUT (Feb 2022)
-• Ranked 3rd among all 71 bachelor’s students in the Aerospace Engineering Department at AUT (Nov 2020)
-• Recognized as an outstanding student (exceptional talent) and granted the opportunity to pursue Electrical
-Engineering as a second major during my BSc at AUT (Sep 2019)
-• Ranked within the top 1.3% among more than 148000 participants in the 2017 Iranian University Entrance
-Exam issued by the National Organization for Educational Testing (Aug 2017)
+- Ranked 1st among all 64 peer master’s students in the Aerospace Engineering Department at SUT (Sep 2024)
+- Winner of the Academic Excellence Fellowship from Iran’s National Elite Foundation (Jan 2023)
+- Received a merit-based direct admission offer for the Master of Aerospace Engineering at SUT (Feb 2022)
+- Ranked 3rd among all 71 bachelor’s students in the Aerospace Engineering Department at AUT (Nov 2020)
+- Recognized as an outstanding student (exceptional talent) and granted the opportunity to pursue Electrical Engineering as a second major during my BSc at AUT (Sep 2019)
+- Ranked within the top 1.3% among more than 148000 participants in the 2017 Iranian University Entrance Exam issued by the National Organization for Educational Testing (Aug 2017)
 
   
 ## 🛠️ Skills
